@@ -3,7 +3,19 @@ import random
 import string
 
 print("Dies ist ein Discord-Nitro-Code-Generator und -Checker, der mit Python erstellt wurde. Dadurch werden Nitro-Codes generiert und überprüft, ob der Code gültig ist oder nicht. Wenn der Code gültig ist, wird der Code gedruckt, wobei 2 Zeilen übrig bleiben, und wenn nicht, wird '*' gedruckt.\n\n\n")
-num = int(input('Geben Sie ein, wie viele Codes generiert und überprüft werden sollen:\n'))
+num = int(input
+ '-------------------------------------------------------------------------------------------------------------------------------------\n'
+ '#     #  #######  #######  #######   #####             #      #     #  ###  #######  ######   #######       #####   #######  #     # \n'
+ '##    #  #     #  #     #       #   #     #           #       ##    #   #      #     #     #  #     #      #     #  #        ##    # \n'
+ '# #   #  #     #  #     #      #    #     #          #        # #   #   #      #     #     #  #     #      #        #        # #   # \n'
+ '#  #  #  #     #  #     #     #     #     #         #         #  #  #   #      #     ######   #     #      #  ####  #####    #  #  # \n'
+ '#   # #  #     #  #     #    #      #   # #        #          #   # #   #      #     #   #    #     #      #     #  #        #   # # \n'
+ '#    ##  #     #  #     #   #       #    #        #           #    ##   #      #     #    #   #     #      #     #  #        #    ## \n'
+ '#     #  #######  #######  #######   #### #      #            #     #  ###     #     #     #  #######       #####   #######  #     # \n'
+ '-------------------------------------------------------------------------------------------------------------------------------------\n'
+    
+    'Geben Sie ein, wie viele Codes generiert und überprüft werden sollen:\n'
+))
 
 
 with open("Nitro Codes.txt", "w", encoding='utf-8') as file:
