@@ -17,7 +17,7 @@ DISCORD NITRO GENERATOR
 
 <h1 align='center'>🛠️ SPRACHE UND TOOLS</h1>
 <h3>
-<img src='images\image.png'>
+<img src='image.png'>
 </h3>
 
 <h3 align='center'>
