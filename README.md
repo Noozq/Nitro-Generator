@@ -34,10 +34,10 @@ DISCORD NITRO GENERATOR
 ```
 pip install -r requirements.txt
 ```
-* txt datei
-  ```
-  erstelle eine datei mit dem namen Nitro Codes.txt
-  ```
+* Datenbank erstellen
+```
+erstelle eine datei mit dem namen Nitro Codes.txt
+```
 * Run datei:
 ```
 start nitrogen.py
