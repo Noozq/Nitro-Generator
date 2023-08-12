@@ -36,11 +36,11 @@ pip install -r requirements.txt
 ```
 * Datenbank erstellen
 ```
-erstelle eine datei mit dem namen Nitro Codes.txt
+erstelle Nitro Codes.txt
 ```
 * Run datei:
 ```
-start nitrogen.py
+starte nitrogen.py
 ```
 
 <h1 align='center'>🔮 UPDATES / LOGS</h1>
