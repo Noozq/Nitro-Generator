@@ -13,9 +13,8 @@ num = int(input
  '#    ##  #     #  #     #   #       #    #        #           #    ##   #      #     #    #   #     #      #     #  #        #    ## \n'
  '#     #  #######  #######  #######   #### #      #            #     #  ###     #     #     #  #######       #####   #######  #     # \n'
  '-------------------------------------------------------------------------------------------------------------------------------------\n'
-    
-    'Geben Sie ein, wie viele Codes generiert und überprüft werden sollen:\n'
-))
+ '----------------------------Geben Sie ein, wie viele Codes generiert und überprüft werden sollen:------------------------------------\n'
+ ))
 
 
 with open("Nitro Codes.txt", "w", encoding='utf-8') as file:
