@@ -15,7 +15,7 @@
    <a href="https://github.com/Noozq"><img src="https://img.shields.io/github/forks/VintellX/Discord-Nitro?style=for-the-badge&logo=appveyor" alt="NOOZQ"></a><br>
 </h3><br>
 
-<h1 align='center'>🛠️ SPRACHE UND TOOLS</h1>
+<h1 align='center'>🛠️ SPRACHE UND TOOLS 🛠️</h1>
 <h3>
 <img src='image.png'>
 </h3>
@@ -26,7 +26,7 @@
 </h3>  
 
 
-<h1 align='center'>📥 DOWNLOAD</h1>
+<h1 align='center'>📥 DOWNLOAD 📥</h1>
 <h3 align='center'>1. Lade Sie Die Nitro-Generator als zip herunter.</h3>
 <h3 align='center'>2. Enpacken Sie Die zip datei.</h3>
 
@@ -43,4 +43,4 @@ erstelle Nitro Codes.txt
 starte nitrogen.py
 ```
 
-<h1 align='center'>🔮 UPDATES / LOGS</h1>
+<h1 align='center'>🔮 UPDATES / LOGS 🔮</h1>
