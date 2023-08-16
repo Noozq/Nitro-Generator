@@ -9,12 +9,6 @@
 <h3 align="center">
 <img alt="Discord" src="https://img.shields.io/discord/1002250543030341662?style=for-the-bagde&logo=discord&logoColor=Withe&link=https%3A%2F%2Fdiscord.gg%2Fenzj9xudyP">
 <h3>
-
-<h3 align="center">
-   <a href="" alt="Stars"></a>
-   <a href="https://github.com/Noozq"><img src="https://img.shields.io/github/forks/Noozq/Discord-Nitro?style=for-the-badge&logo=appveyor" alt="NOOZQ"></a><br>
-</h3><br>
-
 <h1 align='center'>🛠️ SPRACHE UND TOOLS 🛠️</h1>
 <h3>
 <img src='image.png'>
