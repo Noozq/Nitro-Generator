@@ -12,7 +12,7 @@ DISCORD NITRO GENERATOR
 
 <h3 align="center">
    <a href="" alt="Stars"></a>
-   <a href="https://github.com/Noozq"><img src="https://img.shields.io/github/forks/VintellX/Discord-Nitro?style=for-the-badge&logo=appveyor" alt="Forks"></a><br>
+   <a href="https://github.com/Noozq"><img src="https://img.shields.io/github/forks/VintellX/Discord-Nitro?style=for-the-badge&logo=appveyor" alt="NOOZQ"></a><br>
 </h3><br>
 
 <h1 align='center'>🛠️ SPRACHE UND TOOLS</h1>
