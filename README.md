@@ -2,7 +2,7 @@
 
 </h1>
 <h3 align='center'>
-DISCORD NITRO GENERATOR
+⭐️ NITRO GENERATOR ⭐️
 </h3>
 
 
